@@ -44,12 +44,6 @@ We are proud that we were able to execute our project idea and build out a viabl
 ## What's next for GLYTH
 We plan on cleaning up the current components of our project and adding some more functionality. To better utilize Lightship VPS we plan to add our own locations for testing. We tried experimenting with creating our own, but given the timeframe of the hackathon, it made sense to leave this for future improvements. We also plan to create a more dynamic front end that can better integrate with other components of our project: more form data, using users' location, getting feedback from the user, improving the leaderboard, etc.!
 
-CruzHacks Demo Picture:
-[CruzHacks_Demo_1](https://user-images.githubusercontent.com/74890320/216852151-26167504-8608-4b31-a10c-7f0829228642.jpg)
-
-
-https://user-images.githubusercontent.com/74890320/216852152-07bada0e-1bb4-467e-a0d8-152a6253405c.mov
-
 
 
 https://user-images.githubusercontent.com/74890320/216852153-de046bfa-3f8b-4337-ba03-1bb2a67ab4f6.mov
